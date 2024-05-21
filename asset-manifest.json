@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/CodeX-Compiler/static/js/main.85af3a9d.js",
+    "static/js/453.d2583a33.chunk.js": "/CodeX-Compiler/static/js/453.d2583a33.chunk.js",
+    "index.html": "/CodeX-Compiler/index.html",
+    "main.85af3a9d.js.map": "/CodeX-Compiler/static/js/main.85af3a9d.js.map",
+    "453.d2583a33.chunk.js.map": "/CodeX-Compiler/static/js/453.d2583a33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.85af3a9d.js"
+  ]
+}
