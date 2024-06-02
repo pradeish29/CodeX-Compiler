@@ -1,7 +1,7 @@
 # CodeX-Compiler
 
 ## Overview
-CodeX-Compiler is an online code compiler built using React and Chakra UI. It leverages the Piston API to execute code in various programming languages. The application provides a simple and user-friendly interface for writing, running, and testing code snippets online.
+CodeX-Compiler is an online code compiler built using React and Chakra UI. It leverages Piston API to execute code in various programming languages. The application provides a simple and user-friendly interface for writing, running, and testing code snippets online.
 
 Live Demo - https://pradeish29.github.io/CodeX-Compiler/
 
