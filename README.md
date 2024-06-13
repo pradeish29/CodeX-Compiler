@@ -55,7 +55,6 @@ npm start
 ## Usage
 Open the application in your browser:
 ```sh
-
 http://localhost:3000
 ```
 - Select a programming language from the dropdown menu.
